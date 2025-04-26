@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @swathik-07
 # 👋 Hi there, I’m Swathi Kathirvel (@swathik-07)!
 
 I'm passionate about how technology can solve real-world problems.  
